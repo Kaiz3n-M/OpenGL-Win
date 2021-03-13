@@ -2,8 +2,8 @@
 
 ## Resources
 
-* Best _OpenGL_ tutorial: https://learnopengl.com/
-* Best _OpenGL_ specification documentation: http://docs.gl/
+* _OpenGL_ tutorial: https://learnopengl.com/
+* _OpenGL_ specification documentation: http://docs.gl/
 
 ## Documentation
 ### What OpenGL is?
